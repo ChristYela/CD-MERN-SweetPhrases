@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+#maintitle, #maintitle1, #maintitle2, #maintitle3{
+  color:lightsalmon;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+#title1,#title2{
+  color:lightcoral;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+#btn1, #btn2{
+margin-top: 0.625rem;
+}
+
+#subtitles{
+  color:lightslategray;
+  font-size: large;
+}
+
+#btn3, #btn4{
+  margin-top: 0.625rem;
+  margin-right: 0.625rem;
+  margin-bottom: 0.625rem;
+  }
+
+#btn5, #btn6{
+  margin-top: 0.325rem;
+  margin-right: 0.325rem;
+}  
+
+#btn7, #btn8{
+  margin-top: 0.625rem;
+  margin-right: 0.625rem;
+  margin-bottom: 0.625rem;
+  }
+
+#btn9, #btn10{
+    margin-top: 0.625rem;
+    margin-right: 0.625rem;
+    margin-bottom: 0.625rem;
+  }  
+
+#btnerr{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+#titlerr, #subtitlerr{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+#heartbeat{
+  align-items: center;
+  
+}
+
+#heartbeat1{
+  margin-left: 0.625rem;
+}
+
+
